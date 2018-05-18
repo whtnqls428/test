@@ -7,7 +7,8 @@ public class Main {
 
 		System.out.println("코드수정");
 		System.out.println("하이");
-
+System.out.println("충돌");
+		
 	}
 
 }
