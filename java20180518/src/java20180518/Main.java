@@ -8,7 +8,10 @@ public class Main {
 
 		System.out.println("예쓰예쓰");
 		System.out.println("Yes~");
-		System.out.println("ㅇㅇ");
+		System.out.println("주말이다");
+		System.out.println("놀고싶");
+		
+		
 
 	}
 
